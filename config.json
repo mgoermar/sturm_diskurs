@@ -14,7 +14,7 @@
   },
   "legend": {
     "edgeLabel": "Beteiligung an Briefwechsel, Publikation, oder Erwähnung darin",
-    "colorLabel": "<span style='color:rgb(255,118,34);font-size:50px;'>&#x2022;</span> Personen; <span style='color:rgb(0,207,232);font-size:50px;'>&#x2022;</span> Bücher; <span style='color:rgb(255,124,255);font-size:50px;'>&#x2022;</span> Briefe; <span style='color:rgb(0,203,71);font-size:50px;'>&#x2022;</span> Inhalte/Gattungen; <span style='color:rgb(94,107,87);font-size:50px;'>&#x2022;</span> Institutionen; <span style='color:rgb(89,163,244);font-size:50px;'>&#x2022;</span> Zeitschriften;  <span style='color:rgb(254,102,133);font-size:50px;'>&#x2022;</span> Zeitschriftenbeiträge; <span style='color:rgb(182,164,0);font-size:50px;'>&#x2022;</span> Manuskripte",
+    "colorLabel": "<br/><span style='color:rgb(255,118,34);font-size:50px;'>&#x2022;</span> Personen<br/> <span style='color:rgb(0,207,232);font-size:50px;'>&#x2022;</span> Bücher<br/> <span style='color:rgb(255,124,255);font-size:50px;'>&#x2022;</span> Briefe<br/> <span style='color:rgb(0,203,71);font-size:50px;'>&#x2022;</span> Inhalte/Gattungen<br/> <span style='color:rgb(94,107,87);font-size:50px;'>&#x2022;</span> Institutionen<br/> <span style='color:rgb(89,163,244);font-size:50px;'>&#x2022;</span> Zeitschriften<br/>  <span style='color:rgb(254,102,133);font-size:50px;'>&#x2022;</span> Zeitschriftenbeiträge<br/> <span style='color:rgb(182,164,0);font-size:50px;'>&#x2022;</span> Manuskripte",
     "nodeLabel": "Personen, Bücher, Briefe, Zeitschriften, Inhalte/Gattungen"
   },
   "features": {
