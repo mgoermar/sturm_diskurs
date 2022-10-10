@@ -8,9 +8,9 @@
     "text": "Maximilian Görmar"
   },
   "text": {
-    "more": "",
-    "intro": "",
-    "title": "Publikationsnetz Sturm"
+    "more": "Die Visualisierung zeigt das intellektuelle Diskursnetzwerk des Mathematikers und Architekturtheoretikers Leonhard Christoph Sturm (1669–1719). Es umfasst seine Korrespondenz und Publikationen sowie Briefe und Werke, die auf ihn oder seine Schriften Bezug nehmen und zu seinen Lebzeiten erschienen. Als Datenbasis dienten das <a href="http://www.vd17.de/" target="_blank">VD17</a>, das VD18, der Kalliope-Verbundkatalog sowie die Personen- und Korrespondenzdatenbank zur Leibniz-Edition. Die Visualisierung wurde erstellt mit Gephi und dem SigmaExporter-Plugin, das vom Oxford Internet Institute entwickelt wurde.",
+    "intro": "Die Visualisierung zeigt das intellektuelle Diskursnetzwerk des Mathematikers und Architekturtheoretikers Leonhard Christoph Sturm (1669–1719). Es umfasst seine Korrespondenz und Publikationen sowie Briefe und Werke, die auf ihn oder seine Schriften Bezug nehmen und zu seinen Lebzeiten erschienen.",
+    "title": "Diskursnetzwerk Sturm"
   },
   "legend": {
     "edgeLabel": "Briefkontakt",
