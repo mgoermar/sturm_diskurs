@@ -8,14 +8,14 @@
     "text": "Maximilian Görmar"
   },
   "text": {
-    "more": "Die Visualisierung zeigt das intellektuelle Diskursnetzwerk des Mathematikers und Architekturtheoretikers Leonhard Christoph Sturm (1669–1719). Es umfasst seine Korrespondenz und Publikationen sowie Briefe und Werke, die auf ihn oder seine Schriften Bezug nehmen und zu seinen Lebzeiten erschienen. Als Datenbasis dienten das <a href='http://www.vd17.de/' target='_blank'>VD17</a>, das <a href='https://kxp.k10plus.de/DB=1.65/' target='_blank'>VD18</a>, der <a href='http://kalliope-verbund.info/gnd/117364177' target='_blank'>Kalliope-Verbundkatalog</a> sowie die <a href='https://leibniz.uni-goettingen.de/persons/view/987' target='_blank'>Personen- und Korrespondenzdatenbank zur Leibniz-Edition</a>. Die Visualisierung wurde erstellt mit <a href='https://gephi.org/' target='_blank'>Gephi</a> und dem <a href='https://github.com/oxfordinternetinstitute/gephi-plugins/tree/sigmaexporter-plugin' target='_blank'>SigmaExporter-Plugin</a>, das vom Oxford Internet Institute entwickelt wurde.",
+    "more": "Die Visualisierung zeigt das intellektuelle Diskursnetzwerk des Mathematikers und Architekturtheoretikers Leonhard Christoph Sturm (1669–1719). Es umfasst seine Korrespondenz und Publikationen sowie Briefe und Werke, die auf ihn oder seine Schriften Bezug nehmen und zu seinen Lebzeiten erschienen. Als Datenbasis dienten das <a href='http://www.vd17.de/' target='_blank'>VD17</a>, das <a href='https://kxp.k10plus.de/DB=1.65/' target='_blank'>VD18</a>, der <a href='http://kalliope-verbund.info/gnd/117364177' target='_blank'>Kalliope-Verbundkatalog</a>, die Forschungsdatenbank <a href='https://adw-goe.de/forschung/forschungsprojekte-akademienprogramm/gjz18/datenbank/' target='_blank'>Gelehrte Journale und Zeitungen als Netzwerke des Wissens im Zeitalter der Aufklärung</a> sowie die <a href='https://leibniz.uni-goettingen.de/persons/view/987' target='_blank'>Personen- und Korrespondenzdatenbank zur Leibniz-Edition</a>. Die Visualisierung wurde erstellt mit <a href='https://gephi.org/' target='_blank'>Gephi</a> und dem <a href='https://github.com/oxfordinternetinstitute/gephi-plugins/tree/sigmaexporter-plugin' target='_blank'>SigmaExporter-Plugin</a>, das vom Oxford Internet Institute entwickelt wurde.",
     "intro": "Die Visualisierung zeigt das intellektuelle Diskursnetzwerk des Mathematikers und Architekturtheoretikers Leonhard Christoph Sturm (1669–1719). Es umfasst seine Korrespondenz und Publikationen sowie Briefe und Werke, die auf ihn oder seine Schriften Bezug nehmen und zu seinen Lebzeiten erschienen.",
     "title": "Diskursnetzwerk Sturm"
   },
   "legend": {
-    "edgeLabel": "Briefkontakt",
-    "colorLabel": "node types",
-    "nodeLabel": "Personen, Bücher, Inhalte/Gattungen"
+    "edgeLabel": "Beteiligung an Briefwechsel, Publikation, oder Erwähnung darin",
+    "colorLabel": "<span style='rgb(255,118,34);'>&#x2022;</span> Personen; <span style='color:rgb(0,207,232);'>&#x2022;</span> Bücher; <span style='rgb(255,124,255);'>&#x2022;</span> Briefe; <span style='color:rgb(0,203,71);'>&#x2022;</span> Inhalte/Gattungen; <span style='color:rgb(94,107,87);'>&#x2022;</span> Institutionen; <span style='color:rgb(89,163,244);'>&#x2022;</span> Zeitschriften;  <span style='rgb(254,102,133);'>&#x2022;</span> Zeitschriftenbeiträge; <span style='color:rgb(182,164,0);'>&#x2022;</span> Manuskripte",
+    "nodeLabel": "Personen, Bücher, Briefe, Zeitschriften, Inhalte/Gattungen"
   },
   "features": {
     "search": true,
